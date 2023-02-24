@@ -7,7 +7,7 @@ The code for this example was generated using ChatGPT
 ![ChatGPT-Example](chatgpt.jpg)
 
 ## Usage
-
+ 
 1. In `index.php`, uncomment one of the options:
 - `include "openai_api.php";` - uses the official API
 - `include "openai_chat.php";` - use non-official API from chat.openai.com
